@@ -39,7 +39,7 @@ public class ParkingCarTest {
 	    	Vehicle car = new Vehicle("aaa");
 	    	ParkingBoy boy = new ParkingBoy();
 	    	
-	    	Assert.assertEquals("No spaceffsf", boy.parkCar(car.getNumber(), parkinglot));
+	    	Assert.assertEquals("No space", boy.parkCar(car.getNumber(), parkinglot));
 	    }   
 //	    @Test
 //	    public void return_ab_combination_when_input_ab_ba() {
