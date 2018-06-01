@@ -6,8 +6,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>user1</groupId>
-    <artifactId>make-it-cry</artifactId>
-    <name>make-it-cry</name>
+    <artifactId>parking</artifactId>
+    <name>parking</name>
 
     <packaging>war</packaging>
     <description>Just make it cry</description>
@@ -24,7 +24,6 @@
     </properties>
     
     <dependencies>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
